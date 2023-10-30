@@ -8,9 +8,9 @@
 
 **HTML | CSS (Flexbox and CSS Grid)**
 
-You can preview it here ==> <a href="https://blackfury117.github.io/Single-price-grid-component/" target="_blank">Single-price-grid-component</a>
+You can preview it here ==> <a href="https://id-dev3.github.io/Single-price-grid-component/" target="_blank">Single-price-grid-component</a>
 
 ## Author
 
-Personal website ==> <a href="https://blackfury117.github.io/" target="_blank">Black Fury</a> <br>
+Personal website ==> <a href="https://id-dev3.github.io/" target="_blank">Black Fury</a> <br>
 Frontend Mentor ==> <a href="https://www.frontendmentor.io/profile/BlackFury117" target="_blank">@BlackFury117</a>
